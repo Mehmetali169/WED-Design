@@ -1,0 +1,148 @@
+h1
+{
+
+    font-size:250%;color:red;
+    
+    text-align: center;
+
+    
+    
+}
+nav
+{
+    background:4px grey;
+    padding: 2px;
+    
+}
+ul{
+    text-align: center;
+}
+h2{
+    color: white;
+    margin-left: 8;
+    font-style: italic;
+}
+.col_detail
+{ column-count: 3;
+  column-rule: 1px solid white;
+  column-gap: px;
+  padding: 2px;
+
+}
+h3
+{
+    color: white;
+    font-style: italic;
+}
+p
+{
+    color: white;
+    font-style: italic;
+}
+aside{
+    float: left;width: 210;
+}
+li
+{
+ color: white;
+}   
+#content
+{
+    float: left;
+    margin-bottom: 10px;
+    width: 70%;
+    border: 1px solid gray;
+}
+#contentsecond
+{  
+    float: right;
+    width: 28%;
+    border: 1px solid gray;
+}
+footer
+{
+    clear: both;
+    border: 1px solid gray;
+    padding: 0;
+    margin: 0;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+    background-color: gray;
+    text-align: center;
+}
+.videoContent
+{
+    float: left;
+    width: 49%;
+    border: 1px solid white;
+    height: 450px;
+    overflow: auto;
+    margin: 2px; 
+}
+.mapsContent
+{
+    float: left;
+    width: 49%;
+    border: 1px solid white;
+    height: 450px;
+    overflow: auto; 
+    margin: 2px;
+}
+.Audio
+{
+    background-image: url(../project/images/IMG_5507.jpeg);
+    background-size :var();
+    margin: 80px;
+    border: 2px solid white;
+    
+}
+.AudioB
+{
+    background-image: url(../project/images/IMG_5508.jpeg);
+    background-size :unset;
+    margin: 80px;
+    border: 2px solid white;
+}   
+.AudioC
+{
+    background-image: url(../project/images/IMG_5509.jpeg);
+    background-size :unset;
+    margin: 80px;
+    border: 2px solid white;
+    
+    
+}
+h3{
+    float: right;
+    margin: 10px;
+    font-size: smaller;
+    font-style: italic;
+
+}
+.nav
+{
+    text-align: center;
+    font-size: 185%;
+    text-decoration: none;
+    border: 1px solid red;    
+    border-radius: 5px;
+    margin-right: 10px;
+    padding: 7px;
+    color: white;
+    background-color: black;
+    text-align: center;
+}
+a
+{
+    font-style:italic;
+}
+#contentThird
+{
+    float: right;
+    width: 28%;
+    border: 1px solid gray;
+    margin-top: 2px;
+    height: 1025px;
+
+}
